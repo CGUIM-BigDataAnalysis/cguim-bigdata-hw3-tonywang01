@@ -45,7 +45,7 @@ knitr::kable(pttTech1)
 dim(pttTech1)
 
 ```
-共爬出219篇文章
+共爬出216篇文章
 
 
 ```{r}
